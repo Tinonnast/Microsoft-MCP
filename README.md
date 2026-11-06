@@ -1,3 +1,10 @@
+# THIS REPOSITORY WAS AI MADE
+Due to the limited amount of available free time I have at the moment, this Repository was AI-Made and thus might have security vulnerabilities and bugs. Use at your own risk.
+If you would like a not vibe-coded repo for accessing Microsoft account data using the Graph API, check out my other repository https://github.com/Tinonnast/Microsoft-ToDo-API-for-personal-accounts-example 
+
+Yes, this README was written by AI as well starting... now
+
+---
 # Microsoft Graph MCP (multi-user, restricted write)
 
 MCP server for **personal Microsoft accounts**. Each person signs in with Microsoft in the browser, gets their own session token, and the AI only ever sees **that** user’s data.
